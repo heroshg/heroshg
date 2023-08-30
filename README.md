@@ -19,7 +19,7 @@
 </p>
 
 <p align="left">
-  <a href="mailto:heros.goodoy@gmail.com" alt="Gmail">
+  <a href="mailto:heros.goodoy@gmail.com" alt="heros.goodoy@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:heros.goodoy@gmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/heroshlatki/" alt="LinkedIn">
