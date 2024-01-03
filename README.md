@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: Angular, React, Jquery, Bootstrap, Git e Github
+  💼 Ferramentas: Angular, Typescript/Javascript, SQL, C# , Git e Github
 </p>
 
 <p align="left">
