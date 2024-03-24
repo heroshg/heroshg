@@ -1,9 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá me chamo Heros Hlatki <strong>Sou desenvolvedor, atualmente front-end</strong>.<br>
-  Tenho feito interfaces front-end com base em ideias que surgem, cursos que estudo e nas quais tenho curiosidade,
-  atualmente estou estudando Análise e Desenvolvimento de Sistemas e tenho estudado as principais tecnologias do mercado.
+ Heros é um estudante de desenvolvimento de software, tem conhecimentos em páginas dinâmicas com o Javascript,
+  conexão com banco de dados utilizando SQL, desenvolvimento back-end com C# e .NET. Seja bem-vindo ao meu perfil!
 </p>
 
 <div>
