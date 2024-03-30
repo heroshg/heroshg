@@ -6,7 +6,6 @@
 </p>
 
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heroshg&show_icons=true&theme=dracula&locale=pt-br&hide=issues" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heroshg&layout=compact&locale=pt-br&theme=dracula" />
 </div>
 <p align="left">
