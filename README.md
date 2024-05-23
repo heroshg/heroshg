@@ -1,8 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
- Heros é um estudante de desenvolvimento de software, tem conhecimentos em páginas dinâmicas com o Javascript,
-  conexão com banco de dados utilizando SQL, desenvolvimento back-end com C# e .NET. Seja bem-vindo ao meu perfil!
+ Me chamo Heros Hlatki Godoy e atualmente trabalho com desenvolvimento de software e seja bem vindo ao meu perfil!
+Falando um pouco sobre mim eu tenho 19 anos e estou concluindo minha graduação em Análise e Desenvolvimento de Sistemas
+ Atualmente tenho trabalhado com tecnologias com C#, VB.NET, TypeScript, .NET e SQL
 </p>
 
 <div>
@@ -13,7 +14,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: Angular, Typescript/Javascript, SQL, C# , Git e Github
+  💼 Ferramentas: Angular, Typescript/Javascript, SQL, C#, .NET, Git e Github
 </p>
 
 <p align="left">
