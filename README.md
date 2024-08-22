@@ -13,15 +13,7 @@ Here you'll find some projects focused in the following technologies:
 <p>-ASP.NET (WebApi, EF, Identity)</p>
 <p>-Microservices</p>
 <p>-Relational Databases (MySQL)</p>
-<p>-Redis</p>
 <p>-Docker</p>
-<p>-Kafka</p>
-<p>-AWS Bucket S3</p>
-<p>-AWS Lambda</p>
-<p>-AWS Rekognition</p>
-<p>-AWS Translate</p>
-<p>-AWS SNS</p>
-<p>-AWS SQS</p>
 
 Soon
 <p>-Microservices</p>
@@ -30,6 +22,7 @@ Soon
 <p>-Docker</p>
 <p>-Cloud</p>
 <p>-Design Patterns</p>
+<p>-Docker</p>
 <hr>
 
 
