@@ -1,30 +1,37 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+<code>Console.WriteLine("Welcome to my profile!")</code>
+<hr>
 
-<p align="left"> 
- Me chamo Heros Hlatki Godoy e atualmente trabalho com desenvolvimento de software e seja bem vindo ao meu perfil!
-Falando um pouco sobre mim eu tenho 19 anos e estou concluindo minha graduação em Análise e Desenvolvimento de Sistemas
- Atualmente tenho trabalhado com tecnologias com C#, VB.NET, TypeScript, .NET e SQL
-</p>
+<p>👨‍💻 Software Intern at <a href="https://www.bellinatiperez.com.br/" target="blank_">Bellinati Perez</a></p>
+<p>🎓 Graduating Systems Analysis and Development at <a href="https://www.up.edu.br/" target="blank_">Universidade Positivo</a></p>
+<p>📚 Studing .NET Ecosystem & Solutions</p>
 
-<div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heroshg&layout=compact&locale=pt-br&theme=dracula" />
-</div>
-<p align="left">
-  🦄 Linguagens: JavaScript, TypeScript, C# .NET
-</p>
+[![My Skills](https://skillicons.dev/icons?i=cs,angular,dotnet,mysql,ts,visualstudio,git)](https://skillicons.dev)
 
-<p align="left">
-  💼 Ferramentas: Angular, Typescript/Javascript, SQL, C#, .NET, Git e Github
-</p>
+Here you'll find some projects focused in the following technologies:
+<p>-C#</p> 
+<p>-.NET</p> 
+<p>-ASP.NET (WebApi, EF, Identity)</p>
+<p>-Microservices</p>
+<p>-Relational Databases (MySQL)</p>
+<p>-Redis</p>
+<p>-Docker</p>
+<p>-Kafka</p>
+<p>-AWS Bucket S3</p>
+<p>-AWS Lambda</p>
+<p>-AWS Rekognition</p>
+<p>-AWS Translate</p>
+<p>-AWS SNS</p>
+<p>-AWS SQS</p>
 
-<p align="left">
-  💌 Entre em contato comigo através das redes: ⤵️
-</p>
+Soon
+<p>-Microservices</p>
+<p>-Domain Driven Design (DDD)</p>
+<p>-Relational and Non-Relational Databases (SQL Server, MongoDB)</p>
+<p>-Docker</p>
+<p>-Cloud</p>
+<p>-Design Patterns</p>
+<hr>
 
-<p align="left">
-  <a href="mailto:heros.goodoy@gmail.com" alt="heros.goodoy@gmail.com">
-  <img src="https://img.shields.io/badge/heros.goodoy@gmail.com-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:heros.goodoy@gmail.com" /></a>
 
-  <a href="https://www.linkedin.com/in/heroshlatki/" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heroshlatki/" /></a>
-</p>
+
+Enjoy :)
