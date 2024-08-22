@@ -15,7 +15,8 @@ Here you'll find some projects focused in the following technologies:
 <p>-Relational Databases (MySQL)</p>
 <p>-Docker</p>
 
-Soon
+<br>
+Soon:
 <p>-Microservices</p>
 <p>-Domain Driven Design (DDD)</p>
 <p>-Relational and Non-Relational Databases (SQL Server, MongoDB)</p>
