@@ -1,7 +1,7 @@
 <code>Console.WriteLine("Welcome to my profile!")</code>
 <hr>
 
-<p>👨‍💻 Software Intern at <a href="https://www.bellinatiperez.com.br/" target="blank_">Bellinati Perez</a></p>
+<p>👨‍💻 Software Developer at <a href="https://www.bellinatiperez.com.br/" target="blank_">Bellinati Perez</a></p>
 <p>🎓 Graduating Systems Analysis and Development at <a href="https://www.up.edu.br/" target="blank_">Universidade Positivo</a></p>
 <p>📚 Studing .NET Ecosystem & Solutions</p>
 
