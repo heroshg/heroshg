@@ -13,7 +13,7 @@ Here you'll find some projects focused in the following technologies:
 <p>- ASP.NET (WebApi, EF, Identity)</p>
 <p>- Microservices</p>
 <p>- Relational Databases (MySQL)</p>
-<p>- Arquitetura de Software</p>
+<p>- Software Architecture</p>
 <p>- SOLID</p>
 <p>- Design Patterns</p>
 
