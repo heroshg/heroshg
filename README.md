@@ -24,7 +24,7 @@ Soon:
 <p> - Domain Driven Design (DDD)</p>
 <p> - Relational and Non-Relational Databases (SQL Server, MongoDB)</p>
 <p> - AWS</p>
-<p> DSA</p>
+<p> - DSA</p>
 <hr>
 
 
